@@ -1,0 +1,87 @@
+A:link {FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: Tahoma,Verdana,Arial; text-decoration: none;}
+A:visited {FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: Tahoma,Verdana,Arial; text-decoration: none;}
+A:hover {COLOR: #98AFC7;}
+
+.P {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #000000; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.content01 {
+	FONT-SIZE: 12px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #000000; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.ablack{ 
+FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #000000; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+
+.ablue{ 
+FONT-SIZE: 12px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #000099; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.ablue2{ 
+FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #000099; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.ared{ 
+FONT-SIZE: 12px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #990000; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.awhite{ 
+FONT-WEIGHT: bold;  FONT-SIZE: 12px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #ffffff; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.navLightGray{ 
+FONT-WEIGHT: bold;  FONT-SIZE: 14px; PADDING-BOTTOM: 10px; MARGIN: 5px 10px 0px; COLOR: #151B54; FONT-FAMILY: Tahoma,Verdana,Arial
+}
+
+.agents{ 
+FONT-WEIGHT: bold;  FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: Tahoma,Verdana,Arial;
+}
+
+.notesRed{ 
+FONT-WEIGHT: bold;  FONT-SIZE: 12px; COLOR: #C11B17; FONT-FAMILY: Tahoma,Verdana,Arial;
+}
+
+.tableBorder {
+	border-width: 2px;
+	border-spacing: 0 ;
+	border-style: outset;
+	border-color: #ffffff;
+	border-collapse: collapse;
+	background-color: #98AFC7;
+}
+
+.tableRuler {
+	border-width: 2px;
+	border-spacing: 0 ;
+	border-style: dotted;
+	border-color: #000000;
+	border-collapse: collapse;
+	background-color: #FFF8C6;
+	padding: 5px;
+}
+
+.tableWizard {
+	border-width: 1px;
+	border-spacing: 2px ;
+	border-style: inset;
+	border-color: #ffffff;
+	border-collapse: separate;
+	padding: 5px;
+	background-color: #151B54;
+}
+
+
+.tableNav{
+	border-width: 2px;
+	border-spacing: 0 ;
+	border-style: inset;
+	border-color: #ffffff;
+	border-collapse: collapse;
+	background-color: #98AFC7;
+}
+
+
+
+

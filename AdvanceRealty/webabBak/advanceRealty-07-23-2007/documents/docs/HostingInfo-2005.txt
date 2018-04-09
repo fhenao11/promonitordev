@@ -1,0 +1,294 @@
+
+
+
+DOMAIN NAME: buyorsell-yourhome.com
+IP ADDRESS: 65.108.70.164
+USERNAME: ehenao11
+PASSWORD: ehenao
+
+------------------------------
+
+Hi,
+
+It is a pleasure to welcome you to our web hosting services. Please save and print this e-mail as it contains important administrative information about your account. We ask that you read this entire email before you start setting up your account with us.
+
+--------------------------------------------------------------------
+
+- NEW DOMAIN NAMES
+
+If you have not registered your domain yet, we recommend you register at http://www.DiscountDomainRegistry.com. They only charge $14.99 per domain year. Once you have registered with them, you can update your name servers instantly by logging into their domain control panel located at http://discountdomainregistry.com/manage.shtml and follow the instructions below.
+
+--------------------------------------------------------------------
+
+*****THE FOLLOWING IS VERY IMPORTANT. YOUR DOMAIN WILL NOT WORK IF YOU DO NOT FOLLOW THESE INSTRUCTIONS.*****
+
+- REGISTERED DOMAIN NAMES
+
+If you have already registered your domain name, please make sure to change your name servers to:
+
+Primary Nameserver: NS.SUCCESSFULHOSTING.COM
+Primary IP Address: 64.176.60.107
+Secondary Nameserver: NS2.SUCCESSFULHOSTING.COM
+Secondary IP Address: 64.176.61.93
+
+For a detailed tutorial and instructions on this procedure please go to http://successfulhosting.com/html_files/support/transfer/transfer.html  .
+
+The above information is important and must be accurate in order for the world to find your domain on our servers and to be able to send and receive email.
+
+Your name server changes should activate within 2-5 days depending on how long it takes those changes to propagate throughout the Internet. Please do not contact us asking how much longer it's going to take since we have nothing to do with this process.
+
+If are with a domain registrar that is charging you more than $14.99 per year for your domain registration, you might want to transfer to our partner http://www.DiscountDomainRegistry.com .
+
+If you are currently hosting your domain name with another hosting company and need instructions on how to move your domain over to us for hosting please visit:
+http://successfulhosting.com/html_files/support/troubleshooting/moveaccount.html .
+
+ATT RESELLERS: The above name server changes do not apply to you and your customers if you signed up for a "Reseller Plus" package. You will be using your own domain name servers that we will supply you with. Please make sure to visit the "Reseller Area" in your control panel for more details and instructions on how to set up your own name servers.
+
+--------------------------------------------------------------------
+
+BILLING INFORMATION
+
+To check your current balance please log into your Account Control Panel (http://65.108.70.164/menu) and click on the "Billing History" tool.
+
+CHECK OR MONEY ORDERS:
+
+If you chose to pay by check or money order, please mail your payment promptly to:
+
+SuccessfulHosting.com
+ATT: Billing Department
+3009 Avenue J
+Brooklyn, NY 11210
+
+We must receive your payment within 7 days of your signup. If we do not receive your payment your hosting account will automatically be suspended for non-payment. If you need more than 7 days please email BillingTeam@SuccessfulHosting.com for an extension.
+
+Please make sure to mention your domain name in the memo field of your check payment. 
+
+You may also pay by check securely online (Only if you use a U.S. Bank) at https://paybycheck.com/?id=98500580 .
+
+Even though you initially chose to pay by check you may also pay your balance via credit card. To change your billing method and update your account information to pay via credit card: Log into your Account Control Panel (http://65.108.70.164/menu) and click on the "Edit Billing Information" tool. You will then be able to enter your credit card information.
+
+If you have any billing questions please contact us at BillingTeam@SuccessfulHosting.com .
+
+ALL CUSTOMERS:
+
+If you would like to change your billing information such as your method of payment or your credit card number please log into your control panel located at http://65.108.70.164/menu (or once your domain is resolving you can go to buyorsell-yourhome.com/menu ) and click on the "Edit Billing Information" Tool.
+
+For account information or billing questions, please consult the "Account Manager" or "Billing History" tool in your control panel. For a printable invoice please click on the "billing History" tool in the control panel. If you have further billing questions please contact our billing department at: BillingTeam@SuccessfulHosting.com .
+
+Your account will automatically be billed at the end of each period unless you cancel your account.
+
+--------------------------------------------------------------------
+
+- ALL ACCOUNTS
+
+While the registrar is processing your domain name you may start sending your web documents via FTP. You can test your web pages before your domain is registered with the following URL: 
+
+http://65.108.70.164/
+
+A temporary web page can be found at your web stating that this is the future home of buyorsell-yourhome.com .
+
+PLEASE NOTE THE FOLLOWING:
+
+DOMAIN NAME: buyorsell-yourhome.com
+IP ADDRESS: 65.108.70.164
+USERNAME: ehenao11
+PASSWORD: XvZZ9iN9  (Changed to: ehenao)
+PACKAGE NAME: starter
+
+We are pleased to offer our award winning full-featured Account Control Panel, which allows you to do everything you need to create and maintain your site. You can access your Account Control Panel at:
+
+http://65.108.70.164/menu
+buyorsell-yourhome.com/menu (Once your domain resolves)
+
+The Control Panel allows you to do such things as manage your email accounts, manage your files, install counters, view your stats, install FP extensions, etc.
+
+The above password ( XvZZ9iN9 ) is a temporary password. You can change it to anything you like in your new Control Panel. To access your control panel use one of the following URL's:
+
+http://65.108.70.164/menu
+buyorsell-yourhome.com/menu (Once your domain resolves)
+
+Then click on the "Change Password" button. If you have problems logging into your account after you changed your password, please see: http://successfulhosting.com/html_files/support/troubleshooting/password.html  .
+
+--------------------------------------------------------------------
+
+WHAT DO I DO NEXT?
+                 
+1.) Check to make sure your account is working by trying to call your site within your browser using:  http://65.108.70.164 You should see a basic page that states this is the future home of buyorsell-yourhome.com . If you see this then your account is working.  
+
+2.) To upload to your web site, you have three options:
+
+ - A. FTP into ftp.domain or 65.108.70.164 using your USERID ( ehenao11 ) and PASSWORD ( XvZZ9iN9 .)  Prior to domain registration (or transfer) you will need to use 65.108.70.164 as the FTP hostname. Please view the information posted in our support area for more information on how to FTP and where to FTP into your account:  http://successfulhosting.com/html_files/support.html . You should also only upload your files to the WWW directory of your account if you want anybody to be able to view them. Please remember to delete the default index.html page that is in that folder with your own index.html page. For detailed instructions on using FTP please got to http://successfulhosting.com/html_files/support/manuals/chapter3.html .
+
+ - B. Log into your control panel located at http://65.108.70.164/menu (or once your domain is resolving you can go to buyorsell-yourhome.com/menu ) and choose the "File Manager" tool. You will be able to select your files and graphics one at a time and upload them to your domain. If you know HTML you may also edit files that were already uploaded to your web site with this tool as well. NOTE: In order for the public to view your web site, your files must be uploaded into your www directory.
+
+ - C. You can use FrontPage 98, 2000, 2002 or any other site creation tool to upload to your web site. IMPORTANT: Before you use FrontPage you must enable your web site to use FrontPage extensions. To enable your web site for FrontPage please log into your control panel located at http://65.108.70.164/menu (or once your domain is resolving you can go to buyorsell-yourhome.com/menu )and click on the "MS FrontPage" tool. For more detailed instructions on how to use and set up FrontPage please go to http://successfulhosting.com/html_files/support/manuals/chapter7.html .
+
+3.)  Setting up email:
+
+Please Note: Your email will not work until you have correctly set up your name servers at your domain registrar and they have correctly propagated throughout the Internet (approximately 48-72 hours.) For a detailed tutorial and instructions on this procedure please go to http://successfulhosting.com/html_files/support/transfer/transfer.html  .
+
+There are two steps to setting up e-mail:
+
+ - A. Setting up mail software on your computer to receive and send e-mail:
+
+You may use an email client such as Outlook Express or Eudora. Most computers come loaded with Microsoft Outlook Express and Eudora is freely available at http://www.eudora.com . 
+
+Here are the settings for your email client:
+
+Incoming Server (POP3): www.buyorsell-yourhome.com
+Outgoing Server (SMTP): www.buyorsell-yourhome.com
+Your current email address: ehenao11@buyorsell-yourhome.com
+Return Address = use the address you want everyone to send mail to
+
+For more information on setting up your email accounts please go to http://successfulhosting.com/html_files/support/manuals/chapter5.html  .
+ 
+You can check and send email online from anywhere in the world using our WebMail user panel - all you or your users need is a web browser and an internet connection. Go to http://65.108.70.164/up/ (or once your domain is resolving you can go to buyorsell-yourhome.com/up/ ) and log in with your email account username and password. All accounts that you have set up through the "Mail Manager" will be able to access their accounts through WebMail.
+
+ - B. Customizing your web site's e-mail accounts:
+
+By default all e-mail sent to your DOMAIN (i.e. webmaster@buyorsell-yourhome.com or root@buyorsell-yourhome.com , etc.) will be redirected to your email account (ehenao11@buyorsell-yourhome.com .)  From there, email can be picked up as a POP or forwarded to an address(s) you provide within your control panel. You can update your email settings, add mail accounts, set up auto-responders, forwarding and much more by logging into your control panel located at http://65.108.70.164/menu (or once your domain is resolving you can go to buyorsell-yourhome.com/menu ) and clicking on the "Mail Manager" tool.
+
+SPECIAL NOTE: EarthLink, Mindspring and MSN customers will not be able to use our SMTP servers for their outgoing mail, they will have to use their ISP's (Earthlink or Mindspring) SMTP servers. 
+
+Earthlink customers please see the following url:
+http://successfulhosting.com/html_files/support/troubleshooting/earthlink.html
+
+Mindspring customers please see the following url:
+http://successfulhosting.com/html_files/support/troubleshooting/mindspring.html
+
+MSN customers please see the following url:
+http://successfulhosting.com/html_files/support/troubleshooting/msn.html
+
+--------------------------------------------------------------------
+
+Resellers
+
+For detailed instructions on how to setup your new reseller account please visit the "Reseller Area" in your account control panel (http://65.108.70.164/menu.) We have worked hard putting together instructions, promotional resources and good advice into our reseller area.
+
+--------------------------------------------------------------------
+
+eCommerce Solutions - 
+
+. OsCommerce - The powerful, international, customizable, easy to use, end to end shopping cart solution.
+
+OScommerce brings you many features that, in the past, only expensive, high-end software suites offered. 
+
+These features include: 
+
+- Completely database driven 
+- Customer Account, including order history 
+- Shipping Modules 
+- Payment Modules, including online payment verification 
+- "Customer who bought this product also bought..." 
+- Categories and Product Attributes 
+- Stock-Tracking 
+- Order-Tracking Complete Admin-Environment for easy shop maintenance 
+
+You'll receive OsCommerce shopping cart free of charge if you've signed up for the E-commerce, Webmaster, Professional and Reseller Program plans.
+
+
+. Miva Merchant
+
+Are you looking to sell products online ? Accept credit cards in real time ? We now offer the powerful Miva Merchant e-commerce software (a $695.00 value) for a one time $50.00 installation fee.
+
+Miva Merchant is a dynamic browser based storefront development and management system that allows merchants to create and administrate multiple online stores from anywhere in the world.
+
+Miva Merchant has a complete set of wizards to simplify the process of building your store. The browser based administration interface provides access to an array of more sophisticated tools to maintain your catalog. Upsell merchandising and order fulfillment are included. And Miva's modular architecture enables you with deep-down customization for your storefront.
+
+For more information on Miva Merchant, please visit:
+http://successfulhosting.com/html_files/carts/mivacart.html
+
+--------------------------------------------------------------------
+GEOTRUST 128bit SSL CERTIFICATES
+
+We offer GeoTrust QuickSSLT Web Server Certificates at discounted rates to our current customers. 
+
+Exclusive QuickSSL features:
+. Only $99.95 for a one-year certificate
+. A fully automated 10-minute process
+. Advanced next generation technology
+. True 128-bit SSL encryption
+
+To order your GeoTrust 128 Bit SSL Cetificate, please log in to your account control panel ( http://65.108.70.164/menu ) and click on the QuickSSL icon to order your own SSL certificate. Your SSL Certificate will be availible within 10 minutes!
+
+--------------------------------------------------------------------
+
+DATA TRANSFER AND SPACE ALARMS
+
+To receive a warning via email when you are coming close to your accounts space and transfer limit, please log into your Account Control Panel (http://65.108.70.164/menu) and click on the account management tool. At the bottom of that page you will be able to set your account alarm limit. We highly suggest that all users use this alarm feature since once you reach your space or transfer limit you will not be able to receive any more email. After three days of warnings your account will be temporarily suspended until you either upgrade your account or add space or transfer to your current account.
+
+--------------------------------------------------------------------
+
+FREE HOSTING
+
+Did you know that you can earn free hosting just by referring a friend, relative or business associate ? Many of our current customers have yet to pay us a penny for hosting! 
+
+For more information, please visit:
+http://www.successfulhosting.com/cgi-bin/affiliates/signup.cgi
+
+--------------------------------------------------------------------
+
+MISCELLANEOUS INFORMATION
+
+1.) Your cgi-bin has the following path:
+ /home/ehenao11/buyorsell-yourhome.com-www/cgi-bin
+
+The URL to your cgi-bin is:
+buyorsell-yourhome.com/cgi-bin (or http://65.108.70.164/cgi-bin )
+ 
+You can put your cgi scripts there. If you put in any perl scripts, make sure you have the permissions set to 775 for the perl scripts to be executable. Also, be sure that the perl path in the first line of your script is /usr/bin/perl .
+ 
+The URL to the global cgi-bin (home to pre-written scripts you can use, like the formmail and counter scripts) is buyorsell-yourhome.com/cgi-sys (or http://65.108.70.164/cgi-sys .) 
+
+2.) To see your daily web statistics go to buyorsell-yourhome.com/stats/ (or http://65.108.70.164/stats/ ) for graphical stats and www stats. The stats are updated each day. 
+ 
+3.) General problems to avoid
+ - filenames are case sensitive so they must match or you will get a file not found error.
+ - transfer perl scripts and text files as ASCII text
+ - transfer gif and jpg images as image or binary file type
+ - MAC users should transfer files as raw data
+ - if your perl script doesn't work, the two most common reasons are permissions are not set right either on the scripts or files and directories they write to, or the paths are wrong.
+
+--------------------------------------------------------------------
+
+ADDITIONAL TECH SUPPORT
+
+Answers to many of your technical questions can be found at http://successfulhosting.com/html_files/support.html  . There you will find 99.9% of your questions answered right online. 
+
+We also recommend that you download our complete hosting manual for detailed instructions and tutorials on our many features:
+http://successfulhosting.com/support/manuals/control_panel/cp.zip  (press refresh if you receive a page not found error.)
+
+If you have to contact technical support please register at the SuccessfulHosting helpdesk by visiting http://successfulhosting.com/helpdesk/register.php . Once you have signed up for a free helpdesk account you can submit and track all of your support,sales and billing requests. By sending us your request through the helpdesk we are able to track your request and route it to the right department. Our technicians and representatives answer email 24/7, 365 days a year. Most emails are responded to within 1-2 hours at most.
+
+24/7 Live Chat support is available on our web site. Visit http://successfulhosting.com/html_files/support.html and click on "Online Customer Service" at the top of the page.
+
+If you must call support, please visit http://successfulhosting.com/html_files/contact.html for our toll free technical support numbers. Our phones are staffed 24/7 365 days a year with skilled technicians that there to assist you.
+
+--------------------------------------------------------------------
+
+SPAMMING and UNSOLICITED EMAIL
+
+We do not tolerate spamming, spamvertising or the sending of bulk unsolicited email. We will shut down a users account immediately and without any warning if they are caught doing any of the above - and no refund will be issued. This is done to protect the integrity of our company as well as the safe being of our servers.
+
+--------------------------------------------------------------------
+
+POLICIES
+
+When you signed up for your hosting account you agreed to abide by our policies. You can view our policies at http://successfulhosting.com/html_files/support/policies/index.html .
+
+
+
+We appreciate your business and are pleased that you chose us!
+
+Best regards,
+
+- The Welcome Team
+
+SuccessfulHosting.com
+http://www.SuccessfulHosting.com
+Edgar Henao
+Keller Williams Realty
+2170 Satellite Blvd
+Duluth, GA 30097
+Office:(678)775-2643
+Cell:(404)849-5910

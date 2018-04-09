@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+<struts-config>
+
+<form-beans>
+	<form-bean name="FileUpload" type="com.advanceRealty.upload.StrutsUploadForm"/>
+</form-beans>
+
+<form-beans>
+	<form-bean name="FileUploadPic" type="com.advanceRealty.upload.UploadFormPic"/>
+</form-beans>
+
+<global-forwards>  
+  <forward name="workflowViolation_prepareWizard" path="/startWizard.do" />
+  <forward name="workflowViolation_wizardScreen1" path="/wizardScreen1Violation.do" />
+  <forward name="workflowViolation_wizardScreen2" path="/wizardScreen2Violation.do" />
+  <forward name="workflowViolation_wizardScreen3" path="/displayWizardScreen3.do" />
+</global-forwards>
+
+  <!-- ========== Action Mapping Definitions ============================== -->
+  <action-mappings type="org.apache.struts.action.ActionMapping">         
+   
+
+<action
+     path="/FileUpload"
+     type="com.advanceRealty.upload.StrutsUploadAction"
+     name="FileUpload"
+     scope="request"
+     validate="true"
+     input="/pages/web/upload/fileUpload.jsp">
+     <forward name="success" path="/pages/web/upload/fileUpload.jsp"/>
+</action>
+  </action-mappings>	
+</struts-config>

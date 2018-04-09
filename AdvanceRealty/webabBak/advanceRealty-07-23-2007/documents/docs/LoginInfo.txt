@@ -1,0 +1,73 @@
+www.advancerealtyllc.com
+
+username:advan31
+password:ehenao9848    (changed to: daniel9848)
+
+************************
+Email Accounts:
+
+edgarhenao@advancerealtyllc.com
+password:ehenao
+
+
+lorijavor@advancerealtyllc.com
+password:ljavor
+
+contact@advancerealtyllc.com
+password:contact2006
+
+**************************
+
+Loging to : http://www.listingware.com
+advn01
+ehenao9848
+
+http://advancerelatyllc.listingware.com/search/index.cfm?MemberView=On
+**********************************************
+DATABASE:
+
+DB Name:  advan31_DBPAR1
+user: advan31_ehenao
+password: ehenaodb
+
+*********************************
+SQLS:
+Samples:
+
+CREATE TABLE test
+(First_Name char(50),
+Last_Name char(50),
+Address char(50),
+City char(50),
+Country char(25),
+Birth_Date date)
+
+CREATE TABLE agent
+(
+agent_id int unsigned not null auto_increment primary key,
+firstName varchar(50),
+lastName varchar(50),
+tel varchar(20),
+email varchar(80),
+picPath varchar(80),
+field1 varchar(80),
+field2 varchar(80),
+field3 varchar(80)
+);
+
+
+CREATE TABLE employee_data
+(
+emp_id int unsigned not null auto_increment primary key,
+f_name varchar(20),
+l_name varchar(20),
+title varchar(30),
+age int,
+yos int,
+salary int,
+perks int,
+email varchar(60)
+);
+
+
+insert into test (First_Name,Last_Name, Address, City, Country) values('Foo','Hernandez', 'winterset' 'pkwy', 'marietta', 'US')
